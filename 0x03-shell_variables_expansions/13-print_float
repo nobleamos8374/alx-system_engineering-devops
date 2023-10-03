@@ -1,2 +1,2 @@
 #!/bin/bash
-printntf "%.2f" $NUM | sort
+printntf"%0.2f\n
